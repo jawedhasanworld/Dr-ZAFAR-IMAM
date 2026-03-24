@@ -17,7 +17,7 @@ export default function ClinicDetails() {
                 <h4 className="text-lg font-bold text-trust-blue mb-1">Address</h4>
                 <p className="text-sm text-trust-blue/60 leading-relaxed">
                   [50 Feet Rd, Nihal Vihar, Vandana Vihar, Nangloi, Delhi, 110041]<br />
-                  Near [street no 5], [DELHI]
+                  Near [street no 5], [DELHI],
                 </p>
               </div>
             </div>
@@ -29,7 +29,7 @@ export default function ClinicDetails() {
               <div>
                 <h4 className="text-lg font-bold text-trust-blue mb-1">Phone</h4>
                 <p className="text-sm text-trust-blue/60 leading-relaxed">
-                  +916200260997
+                  +916200260997,
                 </p>
               </div>
             </div>
