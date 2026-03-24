@@ -16,8 +16,8 @@ export default function ClinicDetails() {
               <div>
                 <h4 className="text-lg font-bold text-trust-blue mb-1">Address</h4>
                 <p className="text-sm text-trust-blue/60 leading-relaxed">
-                  [Insert Full Address, City, State, PIN]<br />
-                  Near [Landmark], [City]
+                  [50 Feet Rd, Nihal Vihar, Vandana Vihar, Nangloi, Delhi, 110041]<br />
+                  Near [street no 5], [DELHI]
                 </p>
               </div>
             </div>
@@ -29,19 +29,19 @@ export default function ClinicDetails() {
               <div>
                 <h4 className="text-lg font-bold text-trust-blue mb-1">Phone</h4>
                 <p className="text-sm text-trust-blue/60 leading-relaxed">
-                  +91-XXXXX-XXXXX
+                  +916200260997
                 </p>
               </div>
             </div>
 
             <div className="flex items-start gap-5 group">
               <div className="w-12 h-12 rounded-2xl bg-soft-gray flex items-center justify-center shrink-0 group-hover:bg-trust-blue group-hover:text-white transition-all">
-                <Mail size={24} />
+                <Mail size={30} />
               </div>
               <div>
                 <h4 className="text-lg font-bold text-trust-blue mb-1">Email</h4>
                 <p className="text-sm text-trust-blue/60 leading-relaxed">
-                  [Insert Email]
+                  [drzafarimamptconsultofficial@gmail.com]
                 </p>
               </div>
             </div>
