@@ -11,8 +11,8 @@ export default function Header() {
             <span className="text-white font-bold text-xl">ZI</span>
           </div>
           <div className="hidden sm:block">
-            <h1 className="text-lg font-bold leading-tight text-trust-blue">Dr. Zafar Imam</h1>
-            <p className="text-[10px] uppercase tracking-widest font-semibold text-healing-green-dark">Physiotherapy Clinic</p>
+            <h1 className="text-lg font-bold leading-tight text-trust-blue">Dr. ZAFAR IMAM</h1>
+            <p className="text-[10px] uppercase tracking-widest font-semibold text-healing-green-dark">Experienced Pt Doctor</p>
           </div>
         </div>
 
@@ -31,9 +31,9 @@ export default function Header() {
 
         {/* CTA */}
         <div className="flex items-center gap-4">
-          <a href="tel:+919876543210" className="hidden lg:flex items-center gap-2 text-trust-blue font-semibold hover:text-healing-green-dark transition-colors">
+          <a href="tel:+916200260997" className="hidden lg:flex items-center gap-2 text-trust-blue font-semibold hover:text-healing-green-dark transition-colors">
             <Phone size={18} />
-            <span>+91-XXXXX-XXXXX</span>
+            <span>+91-*****-****-*****</span>
           </a>
           <motion.a
             whileHover={{ scale: 1.05 }}
