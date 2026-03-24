@@ -2,7 +2,7 @@ import { motion } from "motion/react";
 import { CheckCircle2 } from "lucide-react";
 
 const credentials = [
-  "BPT / MPT (Insert Degrees)",
+  "BPT / MPT (Insert Degrees)"
   "Specialist in Orthopedic & Sports Rehabilitation",
   "Certified Manual Therapist",
   "Advanced Dry Needling Expert",
